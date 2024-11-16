@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshenFerna29
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashen2742@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: coding kills....
